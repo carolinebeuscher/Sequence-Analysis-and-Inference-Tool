@@ -1,7 +1,7 @@
 # MagnumOpus - DNA Sequence Analysis Tool
 
 MagnumOpus is a bioinformatics tool that constructs a newick phylogenetic tree from provided reads and assemblies.
-
+ 
 ![alt text](/Seq_Analysis_Inference/ex_tree.svg)
 
 ## Features
