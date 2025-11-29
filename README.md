@@ -2,6 +2,7 @@
 
 MagnumOpus is a bioinformatics tool that constructs a newick phylogenetic tree from provided reads and assemblies.
 
+![alt text](/Seq_Analysis_Inference/ex_tree.svg)
 
 ## Features
 
@@ -23,7 +24,8 @@ MagnumOpus is a bioinformatics tool that constructs a newick phylogenetic tree f
 - Includes consensus sequence generation
 
 ### 4. Phylogenetic Inference
-- Generates Newick phylogenetic tree from pairwise distance matrix 
+- Generates Newick phylogenetic tree from pairwise distance matrix
+- Use https://itol.embl.de/upload.cgi to visualize your tree if desired (see example above)
 
 ### 5. File Format Support
 - FASTA file parsing and manipulation
